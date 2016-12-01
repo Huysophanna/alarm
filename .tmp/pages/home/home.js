@@ -15,10 +15,11 @@ export var HomePage = (function () {
     }
     HomePage = __decorate([
         Component({
-            selector: 'page-home',template:/*ion-inline-start:"/Users/sbc/ionic_project/alarm/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  The world is your oyster.\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.\n  </p>\n</ion-content>\n'/*ion-inline-end:"/Users/sbc/ionic_project/alarm/src/pages/home/home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/Users/MacBook/alarm/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Alarm Me\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n    <div class="img-background"></div>\n\n</ion-content>\n'/*ion-inline-end:"/Users/MacBook/alarm/src/pages/home/home.html"*/
         }), 
-        __metadata('design:paramtypes', [NavController])
+        __metadata('design:paramtypes', [(typeof (_a = typeof NavController !== 'undefined' && NavController) === 'function' && _a) || Object])
     ], HomePage);
     return HomePage;
+    var _a;
 }());
 //# sourceMappingURL=home.js.map

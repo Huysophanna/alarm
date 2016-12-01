@@ -19635,3 +19635,14 @@ sub {
     padding-top: calc(16px + 20px);
   }
 }
+
+.img-background {
+  background: url(../image/background_img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  position: relative;
+}
