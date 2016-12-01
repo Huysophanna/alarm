@@ -1,0 +1,5 @@
+//list all the things you install to this project (plugins, modules etc.)
+
+1.
+2.
+3.
